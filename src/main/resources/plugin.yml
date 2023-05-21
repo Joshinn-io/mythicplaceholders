@@ -1,0 +1,8 @@
+name: MythicPlaceholders
+version: '${project.version}'
+main: io.joshinn.mythicplaceholders.MythicPlaceholders
+api-version: 1.19
+depend: [ MythicMobs, PlaceholderAPI ]
+authors: [ Joshnin ]
+description: Add PAPI placeholders for killing mythicmobs.
+website: joshinn.io
