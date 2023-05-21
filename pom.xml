@@ -21,9 +21,9 @@
 
     <distributionManagement>
         <repository>
-            <id>github-actions</id>
-            <name>Github Actions</name>
-            <url>https://github.com/Joshinn-io/mythicplaceholders</url>
+            <id>github</id>
+            <name>Github Packages</name>
+            <url>https://maven.pkg.github.com/Joshinn-io/mythicplaceholders</url>
         </repository>
     </distributionManagement>
 
