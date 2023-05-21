@@ -23,7 +23,7 @@
         <repository>
             <id>github-actions</id>
             <name>Github Actions</name>
-            <url>https://github.com/Joshinn-io/mythicplaceholders/actions/</url>
+            <url>https://github.com/Joshinn-io/mythicplaceholders</url>
         </repository>
     </distributionManagement>
 
