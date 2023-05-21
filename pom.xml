@@ -18,6 +18,15 @@
     </properties>
     <url>joshinn.io</url>
 
+
+    <distributionManagement>
+        <repository>
+            <id>github-actions</id>
+            <name>Github Actions</name>
+            <url>https://github.com/Joshinn-io/mythicplaceholders/actions/</url>
+        </repository>
+    </distributionManagement>
+
     <build>
         <plugins>
             <plugin>
